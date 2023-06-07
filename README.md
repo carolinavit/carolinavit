@@ -4,7 +4,7 @@
 
 Linguagens: Javascript, Typescript (SOLID e POO).
 
-Back-end: Node.js, Docker, SQL, Mongo, Sequelize, Express, Typescript, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
+Back-end: Node.js, Docker, SQL, Sequelize, Express, Typescript, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
 
 Front-end: HTML, CSS, React, React Router, Redux, Context API, React Hooks.
 
@@ -50,18 +50,6 @@ Ferramentas/tecnologias: Unix & Bash, Git, GitHub, MSQLWorkbench, Trello, Slack,
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker"
-    width="30"
-    height="30"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-    alt="illustrator"
-    width="30"
-    height="30"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    alt="photoshop"
     width="30"
     height="30"
   />
