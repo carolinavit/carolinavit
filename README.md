@@ -2,13 +2,13 @@
 # <div align="center">Oi, eu sou a Vitória! 👩🏻‍💻 </div>
 #### <div align="center">  💻 Full-Stack  Developer</div>
 
-Linguagens: Javascript, Typescript (SOLID e POO).
+Linguagens: Javascript, Typescript (SOLID e POO) e, muito em breve, Python.
 
-Back-end: Node.js, Docker, SQL, Sequelize, Express, Typescript, API Rest e Restful, Autenticação.. Testes com Mocha, Chai e Sinon.
+Back-end: Node.js, Docker, SQL, Sequelize, Express, Typescript, API Rest e Restful, Autenticação, Testes com Mocha, Chai e Sinon.
 
 Front-end: HTML, CSS, React, React Router, Redux, Context API, React Hooks.
 
-Ferramentas/tecnologias: Unix & Bash, Git, GitHub, MSQLWorkbench, Trello, Slack, Discord, Zoom..
+Ferramentas/tecnologias: Unix & Bash, Git, GitHub, MSQLWorkbench, Trello, Slack, Discord..
 
 <p align="left">
     <img
